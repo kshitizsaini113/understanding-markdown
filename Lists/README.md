@@ -23,6 +23,7 @@ Ordered List
 
 1. A
     2. B
+    2. C
 3. C
     4. D
 1. A
