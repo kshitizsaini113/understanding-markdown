@@ -4,3 +4,9 @@
 #### Heading Level 4
 ##### Heading Level 5
 ###### Heading Level 6
+
+Heading Level 1
+==========
+
+Heading Level 2
+------------
