@@ -6,3 +6,5 @@ This is _italic_
 
 This is ***edited***  
 This is ___edited___
+
+This is ~~striked~~
