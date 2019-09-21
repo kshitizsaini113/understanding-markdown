@@ -57,3 +57,14 @@ Unordered List
     - B
     - C
 - D
+
+
+> Preserving Continuity
+
+1. A
+1. B
+1. C
+
+    This is a text
+
+1. D
