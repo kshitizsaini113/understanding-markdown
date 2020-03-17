@@ -1,77 +1,37 @@
-Ordered List
+# Lists using Markdown
 
-1. A
-2. B
-3. C
-4. D
+```
+Lists are of two types:
 
+1. Ordered Lists
+2. Unordered Lists
 
-1. A
-1. B
-1. C
-1. D
+Note: Lists using MD only use 1,2,3 etc. for ordered lists.
+Note: Lists using MD only use discs for unordered lists.
 
-> Testing paragraph between ordered list
+For ordered lists,
+1.
+4.
+6.
+2.
+etc. any format can be used.
+If a list starts with 1. it will result in an incremental list no matter what is specified explicitly.
 
-1. A
-7. B
-3. C
-0. D
+Similary for unordered list, * will initiate, +,* etc. can later be used.
+```
 
-> Nesting Items.
+# Ordered List
 
+1. Item 1
+2. Item 2
+	1. Item 2.1
+	2. Item 2.2
+3. Item 3
 
-1. A
-    1. B
-    2. C
-3. C
-    1. D
-1. A
-    1. B
-    1. C
-1. D
+# Unordered List
 
-
-
-Unordered List
-
-* A
-* B
-* C
-* D
-
-+ A
-- B
-* C
-* D
-
-
-> Nesting Items
-
-- A
-    - B
-    - C
-- C
-    - D
-- A
-    - B
-    - C
-- D
-
-
-> Preserving Continuity
-
-1. A
-1. B
-1. C
-
-    This is a text
-
-1. D
-
-
-> Task list
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+* Item 1
+* Item 2
+	* Item 2.1
+	* Item 2.2
+* Item 3
