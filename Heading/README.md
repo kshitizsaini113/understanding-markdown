@@ -1,4 +1,4 @@
-# Headings
+# Heading in Markdown
 
 ```
 Headings are specified using #
