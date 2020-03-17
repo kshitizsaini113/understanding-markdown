@@ -15,7 +15,7 @@ Markdown files can include <html> language code as both are compatible.
 
 [2. Paragraph](https://github.com/kshitizsaini113/understanding-markdown/tree/master/Paragraph)
 
-[3. Linebreak]()
+[3. Codeblocks](https://github.com/kshitizsaini113/understanding-markdown/tree/master/Codeblocks)
 
 [4. Emphasis](https://github.com/kshitizsaini113/understanding-markdown/tree/master/Emphasis)
 
@@ -33,7 +33,7 @@ Markdown files can include <html> language code as both are compatible.
 
 [11. Tables](https://github.com/kshitizsaini113/understanding-markdown/tree/master/Tables)
 
-[12. Emojis]()
+[12. Emojis](https://github.com/kshitizsaini113/understanding-markdown/tree/master/Emojis)
 
 
 ## Open for Contribution
