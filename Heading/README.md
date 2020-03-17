@@ -1,4 +1,4 @@
-# Heading using MarkDown
+# Headings
 
 ```
 Headings are specified using #
