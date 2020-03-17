@@ -1,15 +1,45 @@
-This is not a blockquote.
+# Blockquotes using MD
+```
+Blockquoting a paragraph requires adding '>' symbol before a paragraph
 
-> This is a blockquote.
+Example: 
+> This is a BlockQuote
+```
+> MThis is a BlockQuote
 
-Blockquote with multiple paragraph.
+## Blockquoting multiple paragraphs together.
+```
+Leave a blank line with > only to connect blockquoted paragraphs.
 
-> First Paragraph
+> ...P1...
 >
-> Second Paragraph
-
-Nested blockquote
-
-> Parent
+> ...P2...
+```
+> My name is Kshitiz Saini.
 >
->> Child
+> This is for learning MarkDown.
+
+# Nested Blockquoting
+```
+Use >> instead of > for nested blockquote.
+```
+> My name is Kshitiz Saini.
+>
+>> This is for learning MarkDown.
+
+# Using other MD techniques with blockquotes
+```
+> # Heading
+> 
+> * First Item
+> * Second Item
+> 
+> **Bold** and *Italics*
+```
+> # Heading
+> 
+> * First Item
+> * Second Item
+> 
+> **Bold** and *Italics*
+
