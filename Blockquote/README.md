@@ -1,4 +1,4 @@
-# Blockquotes using MD
+# Blockquotes in Markdown
 ```
 Blockquoting a paragraph requires adding '>' symbol before a paragraph
 
